@@ -1,1 +1,1 @@
-# nodemcu-nano-shield
+# nodemcu/nano-shield
